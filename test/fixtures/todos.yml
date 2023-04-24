@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: "ToDo One"
+  completed: false
+
+two:
+  title: "ToDo Two"
+  completed: true
